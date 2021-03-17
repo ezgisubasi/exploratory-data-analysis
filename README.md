@@ -1,1 +1,1 @@
-# data-analysis
+# exploratory-data-analysis
